@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Characters/RPG_Character/Animations/Locomotion/Locomotion_NewBlendSpace1D.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Characters/RPG_Character/Animations/ABP_RGBCharacter.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Characters/RPG_Character/Animations/Crouched/Crouch_BlendSpace1D.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Walk.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Characters/RPG_Character/Animations/Lean/LeanBlendSpace1D.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue2.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/1B/Q8HOL1RMTV4ZFOZYL2Y7T7.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Characters/RPG_Character/Animations/Assasinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Characters/RPG_Character/Animations/Assasinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Characters/RPG_Character/Animations/Assasinations/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Characters/RPG_Character/Animations/Assasinations/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Characters/RPG_Character/Animations/Assasinations/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Blueprints/BP_Dummy.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Blueprints/BPI_Assessination.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Characters/RPG_Character/Animations/Assasinations/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S5/EHXRH4DZPM72EZBCWID4YY.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/ThirdPerson/Input/Actions/IA_Asessin.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/UI/WB_AssassinateFront.uasset",
+				"D:/Game_Programmierung/UE5/Projekte/RPG_BP_Tutorial/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset"
+			]
+		}
+	]
+}
